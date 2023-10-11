@@ -1,5 +1,6 @@
-# stole this basically from `https://github.com/lemariva/wifi-cups-server`
-# creates a docker image `cups:stephan2`
+# stole this basically from `https://gist.github.com/svanellewee/`
+#
+# modified to create a docker image `cups-debian:latest`
 
 FROM debian:buster
 
